@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <title>Drawing</title>
+
+    <!-- Références WinJS -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- Références Drawing -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script type="text/javascript" src="js/html5-canvas-drawing-app.js"></script>
+</head>
+<body onload="prepareCanvas('images/watermelon-duck-outline.png')" background="images/background.jpg">
+    <div id="canvasDiv" align="center"></div>
+    <table align="center">
+        <tr>
+            <td><img border="5" src="images/watermelon-duck-outline.png" height="200" width="200" onclick="load('images/watermelon-duck-outline.png')" /></td>
+            <td><img border="5" src="images/1.png" height="200" width="200" onclick="load('images/1.png')" /></td>
+            <td><img border="5" src="images/2.png" height="200" width="200" onclick="load('images/2.png')" /></td>
+            <td><img border="5" src="images/3.png" height="200" width="200" onclick="load('images/3.png')" /></td>
+            <td><img border="5" src="images/4.png" height="200" width="200" onclick="load('images/4.png')" /></td>
+        </tr>
+    </table>
+    <script type="text/javascript">
+        var load = function(src) {
+            clearCanvas();
+            prepareCanvas(src);
+        }
+    </script>
+</body>
+</html>

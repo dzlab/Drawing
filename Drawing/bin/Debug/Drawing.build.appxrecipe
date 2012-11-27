@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DAMN-PC</Machine>
+    <WindowsUser>John</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\1.png">
+      <PackagePath>images\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\2.png">
+      <PackagePath>images\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\3.png">
+      <PackagePath>images\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\4.png">
+      <PackagePath>images\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\color-swatch-brown.png">
+      <PackagePath>images\color-swatch-brown.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\color-swatch-erase.png">
+      <PackagePath>images\color-swatch-erase.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\color-swatch-green.png">
+      <PackagePath>images\color-swatch-green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\color-swatch-purple.png">
+      <PackagePath>images\color-swatch-purple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\color-swatch-yellow.png">
+      <PackagePath>images\color-swatch-yellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\Copy of crayon-texture.png">
+      <PackagePath>images\Copy of crayon-texture.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\crayon-background.png">
+      <PackagePath>images\crayon-background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\crayon-outline.png">
+      <PackagePath>images\crayon-outline.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\crayon-texture.png">
+      <PackagePath>images\crayon-texture.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\eraser-background.png">
+      <PackagePath>images\eraser-background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\eraser-outline.png">
+      <PackagePath>images\eraser-outline.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\html5-drawing-tool-example-marker.png">
+      <PackagePath>images\html5-drawing-tool-example-marker.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\html5-drawing-tool-example.png">
+      <PackagePath>images\html5-drawing-tool-example.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\marker-background.png">
+      <PackagePath>images\marker-background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\marker-outline.png">
+      <PackagePath>images\marker-outline.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\watermelon-duck-outline.png">
+      <PackagePath>images\watermelon-duck-outline.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\images\background.jpg">
+      <PackagePath>images\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\js\excanvas.js">
+      <PackagePath>js\excanvas.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\js\html5-canvas-drawing-app.js">
+      <PackagePath>js\html5-canvas-drawing-app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\documents\visual studio 2012\Projects\Drawing\Drawing\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

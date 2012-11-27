@@ -1,0 +1,13 @@
+c:\users\john\documents\visual studio 2012\Projects\Drawing\Drawing\bin\Debug\resources.pri
+c:\users\john\documents\visual studio 2012\Projects\Drawing\Drawing\bin\Debug\AppxManifest.xml
+c:\users\john\documents\visual studio 2012\Projects\Drawing\Drawing\bin\Debug\Drawing.build.appxrecipe
+c:\users\john\documents\visual studio 2012\Projects\Drawing\Drawing\bld\Debug\priconfig.xml
+c:\users\john\documents\visual studio 2012\Projects\Drawing\Drawing\bld\Debug\layout.resfiles
+c:\users\john\documents\visual studio 2012\Projects\Drawing\Drawing\bld\Debug\resources.resfiles
+c:\users\john\documents\visual studio 2012\Projects\Drawing\Drawing\bld\Debug\pri.resfiles
+c:\users\john\documents\visual studio 2012\Projects\Drawing\Drawing\bld\Debug\LanguageQualifiers.txt
+c:\users\john\documents\visual studio 2012\Projects\Drawing\Drawing\bld\Debug\ProjectArchitectures.txt
+C:\Users\John\Documents\Visual Studio 2012\Projects\Drawing\Drawing\bld\Debug\priconfig.xml.intermediate
+C:\Users\John\Documents\Visual Studio 2012\Projects\Drawing\Drawing\bld\Debug\layout.resfiles.intermediate
+C:\Users\John\Documents\Visual Studio 2012\Projects\Drawing\Drawing\bld\Debug\resources.resfiles.intermediate
+C:\Users\John\Documents\Visual Studio 2012\Projects\Drawing\Drawing\bld\Debug\pri.resfiles.intermediate
